@@ -94,9 +94,7 @@ namespace OpenCVDeviceEnumerator
                         if (frame.Empty())
                             Console.WriteLine(driverName + "+" + idx + "\t opens: OK \t grabs: FAIL");
                         else
-                            Console.WriteLine(driverName + "+" + idx + "\t opens: OK \t grabs: OK");
-                        // display the frame
-                        // imshow(driverName + "+" + to_string(idx), frame); waitKey(1);
+                            Console.WriteLine(driverName + "+" + idx + "\t opens: OK \t grabs: OK");             
                     }
                     cap.Release();
                 }
