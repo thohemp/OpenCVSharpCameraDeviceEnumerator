@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVDeviceEnumerator", "OpenCVDeviceEnumerator\OpenCVDeviceEnumerator.csproj", "{939047BD-4603-4087-B836-9C0B0F38709D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939047BD-4603-4087-B836-9C0B0F38709D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939047BD-4603-4087-B836-9C0B0F38709D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939047BD-4603-4087-B836-9C0B0F38709D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939047BD-4603-4087-B836-9C0B0F38709D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
